@@ -12,7 +12,7 @@ Kunal Nayak (A2_B4_53)
 Mohit Agrawal (A2_B2_33)
 
 Department of Computer Engineering, Ramdeobaba University Nagpur
-Course: Internet of Things (IoT) – Tools and Simulation
+Course: Computer Networks
 
 🎯 Objective
 
